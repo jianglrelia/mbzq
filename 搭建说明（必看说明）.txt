@@ -1,0 +1,164 @@
+服务器环境要求：
+
+	Window系统：win2003、2008、2012、win7、win8 win10等;   环境：iis+php 或 apache+php 或 Nginx+php
+
+	Linux系统 ：所有版本系统;   环境：apache+php 或 Nginx+php
+
+        PHP版本：支持所有的PHP版本运行
+
+	最低配置1G内存、单核cpu，几十个G的硬盘空间
+
+一、前期准备
+
+	第①步：设置链轮域名
+
+	public\domains\  放上要链轮的域名 一行一个
+
+
+	第②步 客户资料
+                   public\info \客户  目录下为客户资料，随机获取客户资料
+                                              webname      网站名称，一行一个，如：行业知名网站名称等，每个文档控制在300K以内。
+                                              keywords     客户关键词，一行一个，每个文档控制在300K以内。
+                    每个客户的资料里面---->   description  网站描述，一行一个，每个文档控制在300K以内。
+                                              jump         跳转js，不限文件个数，随便命名，随机调用。
+        第③步：模板文件
+                   template目录下
+                              index          首页模板，不限文件个数，随便命名，随机调用。
+                              article        内页模板，不限文件个数，随便命名，随机调用。
+                              map            网站地图，不限文件个数，随便命名，随机调用。
+
+	第④步：准备外推关键词、外推地址
+
+             提示：以下可选择做，或者忽略做
+	           public\waituikeywords\ 目录下准备(编码外推关键词)，名称随意，一个文档 300K以内。
+	           public\waituikeywords2\ 目录下准备(编码外推关键词)，名称随意，一个文档 300K以内。
+                   public\waituiurl\ 目录下准备(外推地址，即为各大知名网站的搜索地址，默认自带了一些，有需要可以自己额外添加)，名称随意，一个文档 300K以内。
+                   public\tesuwaituiurl\ 目录下准备(外推地址，即为各大知名网站的搜索地址，默认自带了一些，有需要可以自己额外添加)，名称随意，一个文档 300K以内。
+
+
+	第⑤步 更换站点统计 tj.js文件在根目录下，支持任何统计代码
+
+	第⑥步 添加姓名
+        public\fullname\	  将姓名称加到这里，一行一个（默认上千个姓名，觉得够了可忽略此步骤）
+
+
+	第⑦步 更换原创库
+
+	将制作好的原创库文件放到 public\juzi 目录下 文档名称随意，一个文档 300K以内。
+        可以直接网上下载一部小说放进去就可以。
+
+        第⑧步附加：友情链接蜘蛛池
+
+        public\friendlink\  将需要被收录的超文本加到这里，名称随意，一行一条，一个文档 300K以内。
+                              格式：<a href="http://www.baidu.com">百度</a>
+       
+        第⑨步：短网址生成，运行 根目录下的  dwz.php文件，根据提示操作进行生成
+
+        第⑩：模板规则配置；在/rule/
+                                       title.txt         网站标题标签规则配置 
+                                       linktitle.txt     链接标题标签规则配置
+                                       description.txt   meta标签description描述规则设置
+                                       keywords.txt      meta标签keywords关键字规则设置
+                                       url.txt           全站URL重写规则设置
+                                       bodyarticle.txt   网站内容标签规则配置
+                                       side.txt          干扰字符设置  									   
+ 
+        扩展可选项：
+              若需要用采集文章和新闻标题的方式；打开浏览器 访问 http://域名/caiji/caiji.html地址即可
+              系统默认下采用手工添加文章和网站标题
+              采集临时模板；打开浏览器 运行 http://域名/caiji/getmuban.html地址即可
+              制作模板；打开浏览器 运行 http://域名/caiji/makemuban.html地址即可
+
+二、网站搭建
+
+	★Win服务器:
+
+	第①步：iis新建站点，绑定域名那里，不填写
+
+	第②步：设置主页，只要index.php即可
+	
+	第③步：设置网日志存放目录，如果不看日志，可以不用选
+
+三、域名解析
+
+	www.dnspod.cn注册一个帐号，需要手机验证，否正无法正常解析，DNSPOD批量解析工具解析站群域名。
+
+	域名解析需做泛解析，即解析的时候 填写 * 号
+
+	如douxia.win泛解析为 *.douxia.win
+
+四、目录说明
+        /caiji/                 采集插件目录
+        /rule/                  模板制作规则配置，标签自由组合
+                    title.txt       模板制作，网站标题标签规则配置
+                    linktitle.txt   模板制作，链接标题标签规则配置
+                    description.txt 模板制作，meta标签description规则设置
+                    keywords.txt    模板制作，meta标签keywords规则设置
+                    url.txt         模板制作，全站URL重写规则设置
+                    bodyarticle.txt   网站内容标签规则配置
+                    side.txt          干扰字符设置 
+	/public/
+        /public/jump-open-close.txt     广告开启与关闭：on为开启广告；off为关闭广告
+        /public/push-open-close.txt     蜘蛛推送开启与关闭：on为开启推送；off为关闭推送
+        /public/friendlink-open-close.txt   友情链接蜘蛛池开启与关闭：on为开启蜘蛛池；off为关闭蜘蛛池
+        /public/tongji-open-close.txt   统计开启与关闭：on为开启统计；off为关闭统计
+        /public/baiduspider-open-close.txt  百度蜘蛛来访缓存开启与关闭
+        /public/360spider-open-close.txt    360蜘蛛来访缓存开启与关闭
+        /public/sogouspider-open-close.txt  搜狗蜘蛛来访缓存开启与关闭
+        /public/yisouspider-open-close.txt  神马蜘蛛来访缓存开启与关闭
+        /public/googlespider-open-close.txt 谷歌蜘蛛来访缓存开启与关闭
+        /public/otherspider-open-close.txt  其他蜘蛛（包括人为访问）来访缓存开启与关闭
+		    /domains/	存放根域名列表，不要带www
+                    /shorturl/	短网址列表
+		    /duankou/	计算机端口，生成数字用，默认即可
+		    /juzi/	采集的新闻内容，也可自己放置文档
+                    /fullname/  姓名，一行一个
+                    /newstitle  采集的新闻标题
+		    /description/	网站描述，主要放广告语句，在描述里调用，一行一个 如：【蚪侠霸屏站群】【一套站群三种优化模式！QQ:1662383315】
+		    /keywords/	站点优化关键词，不限txt文件个数，一行一个，每个文件不超过300K
+                    /ipaddress/ 需要进制的IP地址，用作于IP进制形式优化，不限txt文件个数，一行一条，每个文件不超过300K
+
+		    /waituikeywords/	外推编码关键词，不限txt文件个数，一行一个，每个文件不超过300K
+		    /waituikeywords2/	外推编码关键词，不限txt文件个数，一行一个，每个文件不超过300K
+
+		    /waituiurl/	        外推链接 知名站点搜索地址，不限txt文件个数，一行一个，每个文件不超过300K
+                                        外推模板超链接标签格式：<a href="<蚪侠_随机外推URL><蚪侠_随机外推关键词>"><蚪侠_随机关键词></a>
+
+		    /tesuwaituiurl/	外推链接 知名站点搜索地址，不限txt文件个数，一行一个，每个文件不超过300K
+                                        外推模板超链接标签格式：<a href="<蚪侠_随机特殊外推URL前1><蚪侠_随机外推关键词2><蚪侠_随机特殊外推URL后1>"><蚪侠_随机关键词
+
+></a>
+
+		    /friendlink/	强大蜘蛛池，多组站群可以实现串联，给新站带外链，格式：<a href="http://www.baidu.com">百度</a>
+                    /templates/ 目录下为客户模板，随机获取客户模板
+                                              webname      网站名称，一行一个，如：行业知名网站名称等，每个文档控制在300K以内。
+                                              keywords     客户关键词，一行一个，每个文档控制在300K以内。
+                    每个客户的模板里面---->   description  网站描述，一行一个，每个文档控制在300K以内。
+                                              jump         跳转js，不限文件个数，随便命名，随机调用。
+               
+          template/index/       首页模板，不限文件个数，随便命名，随机调用。
+                  /article/     内页模板，不限文件个数，随便命名，随机调用。
+                  /map/         网站地图，不限文件个数，随便命名，随机调用。
+
+	 /pics/			图片目录，随机调用图片
+	 /static/		所有模版的图片、css、js文件放到这里
+
+五、模板制作
+	
+	站群搭建完之后，将根域名生成二级域名，二级域名可以随便组合，数字、字母、数字加字母、关键词全拼、关键首拼、年月日都可以，然后去一些外推网站发下几条外链，几分钟
+
+后便开始收录
+
+
+六、查看蜘蛛记录
+
+    打开浏览器 访问 http://域名/spider.php 即可查看记录
+
+
+                                                   SEO站长：十年专注SEO  QQ:1662383315
+
+
+
+
+
+

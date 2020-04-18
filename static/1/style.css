@@ -1,0 +1,232 @@
+﻿/*
+Theme Name: 悦花园图片版
+Theme URI: http://www.gardenl.com
+
+Author: "卖砖头的小女孩"
+Author URI: http://www.gardenl.com
+
+Description:悦花园是一款极简设计的主题，可适用博客，自媒体类网站，主题会持续升级，请大家多关于悦花园。
+Version: 0.0001
+
+标题大小27,专题题大小20,菜单大小17,文章大小16,
+标题黑色,内容 #656565;
+top40
+标题大小23,专题题大小18,菜单大小16,文章大小16,
+标题黑色,内容 #656565;
+
+-------------------------------------------------------------- */
+
+@charset "utf-8";
+html {
+-webkit-text-size-adjust: none;
+}
+*{
+	margin: 0;
+	padding: 0;
+}
+ol, ul {
+	list-style: none;
+}
+img {
+	border: 0;
+	height: auto;
+	width: auto;
+}
+
+body {
+	font-family: "Microsoft Yahei", "冬青黑体简体中文 w3";
+	font-size: 17px;
+	background: #f9f7f5;
+	letter-spacing: 0.8px;
+	position:relative;
+	letter-spacing:1px;
+}
+a {
+	color: #3f3f3f;
+	font-size: 17px;
+	text-decoration: none;
+
+}
+a:hover {
+	color: #f37800;
+}
+::selection{background:#6fa40b;color:#fff;}
+
+.clear {
+	clear: both;
+}
+/*打赏*/
+.juanz {
+	width: 2px;
+	height: 550px;
+	background: #f1f1f1;
+	margin: 40px auto;
+}
+.juanz li {
+	width: 300px;
+	margin-bottom: 50px;
+	font-size: 16px;
+	height: 34px;
+	line-height: 34px;
+}
+.juanz li b {
+	background: #6fa40b;
+	color: #fff;
+	font-size: 14px;
+	width: 34px;
+	height: 34px;
+	border-radius: 50px;
+	display: inline-block;
+	text-align: center;border:5px solid #fff;
+}
+.juanz .left {
+	text-align: right;
+	margin-left: -278px;
+}
+.juanz .right {
+	margin-left: -22px;
+}
+/*幻灯片开始*/
+
+@media only screen and (min-width: 900px) {
+.hmFocus{width:1300px;margin:0 auto;margin-bottom:15px;padding:8px 0px;background:#fff;} 
+.hmFocus .swiper-pagination {bottom: 10px;left: 0;width: 100%;}
+.hmFocus .swiper-pagination-bullet{opacity:0.5; background:#040404; margin:0 6px!important;border:1px solid #fff;width: 30px;
+	height: 10px;
+	display: inline-block;
+	background: #000;
+	opacity: .2}
+	.hmFocus .swiper-pagination-bullet-active{background:#6fa40b;border:1px solid #fff;}
+	.autoImg a img{width:1284px; height:auto; display:block;margin:0 auto;}
+}
+@media only screen and (max-width:900px) {
+.hmFocus{width:100%;} 
+.swiper-container{width:100%}
+.hmFocus .swiper-pagination {bottom: 0px;left: 0;width: 100%;}
+.hmFocus .swiper-pagination-bullet{opacity:0.5; background:#040404; margin:0 3px!important;border:1px solid #fff;width: 15px;
+	height: 3px;
+	display: inline-block;
+	background: #000;
+	opacity: .2}
+.hmFocus .swiper-pagination-bullet-active{background:#6fa40b;border:1px solid #fff;height: 4px;}	
+.swiper-slide{width:100%;}
+.swiper-slide a{width:100%;display:block;}
+.autoImg a img{width:100%; height:auto; display:block;}
+}
+
+
+
+/**
+ * Swiper 3.0.4
+ * Most modern mobile touch slider and framework with hardware accelerated transitions
+ * 
+ * Licensed under MIT
+ * 
+ * Released on: March 6, 2015
+ */
+.swiper-slide,.swiper-wrapper {
+	height: 100%;
+	position: relative;
+	transform-style: preserve-3d;
+	width: 100%
+}
+
+.swiper-pagination,.swiper-wrapper {
+	-webkit-transform: translate3d(0,0,0)
+}
+
+.swiper-container {
+	margin: 0 auto;
+	position: relative;
+	overflow: hidden;
+	z-index: 1
+}
+
+.swiper-container-vertical>.swiper-wrapper {
+	-webkit-box-orient: vertical;
+	-moz-box-orient: vertical;
+	-ms-flex-direction: column;
+	-webkit-flex-direction: column;
+	flex-direction: column
+}
+
+.swiper-wrapper {
+	z-index: 1;
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-transition-property: -webkit-transform;
+	-moz-transition-property: -moz-transform;
+	-o-transition-property: -o-transform;
+	-ms-transition-property: -ms-transform;
+	transition-property: transform;
+	-moz-transform: translate3d(0,0,0);
+	-o-transform: translate(0,0);
+	-ms-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+	-webkit-box-sizing: content-box;
+	-moz-box-sizing: content-box;
+	box-sizing: content-box
+}
+
+.swiper-slide,.swiper-wrapper {
+	-ms-transform-style: preserve-3d;
+	-moz-transform-style: preserve-3d;
+	-webkit-transform-style: preserve-3d
+}
+
+
+
+.swiper-slide {
+	-webkit-flex-shrink: 0;
+	-ms-flex: 0 0 auto;
+	flex-shrink: 0
+}
+
+
+.swiper-pagination {
+	position: absolute;
+	text-align: center;
+	-webkit-transition: 300ms;
+	-moz-transition: 300ms;
+	-o-transition: 300ms;
+	transition: 300ms;
+	-ms-transform: translate3d(0,0,0);
+	-o-transform: translate3d(0,0,0);
+	transform: translate3d(0,0,0);
+	z-index: 10
+}
+
+.swiper-pagination.swiper-pagination-hidden {
+	opacity: 0
+}
+
+.swiper-pagination-bullet {
+	display: inline-block;
+	background: #000;
+	opacity: .2
+}
+
+.swiper-pagination-clickable .swiper-pagination-bullet {
+	cursor: pointer
+}
+
+.swiper-pagination-white .swiper-pagination-bullet {
+	background: #fff
+}
+
+.swiper-pagination-bullet-active {
+	opacity: 1;
+	background: #007aff
+}
+
+.swiper-pagination-white .swiper-pagination-bullet-active {
+	background: #fff
+}
+
+.swiper-pagination-black .swiper-pagination-bullet-active {
+	background: #000
+}
+}	

@@ -1,0 +1,19 @@
+makemuban.php    为全局替换
+
+makemuban_只留原站标题.php    留原站标题，其他全部替换
+
+makemuban_只留原站标题+去除mate标签.php    留原站标题且删除meta标签的关键字与描述，其他全部替换
+
+makemuban_只留原站标题+关键字+描述+链接标题.php  留(原站标题+关键字+描述+链接标题)，其他全部替换
+
+makemuban_只留原站标题+链接标题.php    留(原站标题+链接标题)，其他全部替换
+
+makemuban_只留原站标题+链接标题+去除mate标签.php  留(原站标题+链接标题)，其他全部替换且删除meta标签的关键字与描述
+
+
+
+
+
+
+
+提示：程序只运行makemuban.php，如果想要达到预想效果，将相应的文件重命名为makemuban.php就好。
