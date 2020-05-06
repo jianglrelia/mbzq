@@ -12,6 +12,13 @@ Disallow: /static/
 Disallow: /tj.js
 Sitemap: /sitemap.xml
 
+User-agent: Googlebot
+Disallow: /public/info/
+Disallow: /pics/
+Disallow: /static/
+Disallow: /tj.js
+Sitemap: /sitemap.xml
+
 User-agent: Sogou web spider
 Disallow: /public/info/
 Disallow: /pics/
@@ -46,7 +53,6 @@ Disallow: /pics/
 Disallow: /static/
 Disallow: /tj.js
 Sitemap: /sitemap.xml
-
 
 User-agent: *
 Disallow: /
