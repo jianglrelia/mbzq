@@ -1,2 +1,3 @@
-# Auto detect text files and perform LF normalization
-* text=Php
+*.js linguist-language=Php
+*.css linguist-language=Php
+*.html linguist-language=Php
