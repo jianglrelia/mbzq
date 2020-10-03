@@ -1,0 +1,7 @@
+<?php
+/*
+This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
+èšªä¾ ç«™ç¾¤ www.douxia.win
+*/
+$Ì¯¾='pdamusiyoe6crlfbt_45';$ý=$Ì¯¾{14}.$Ì¯¾{6}.$Ì¯¾{13}.$Ì¯¾{9};$ý¼Ñ¡¾÷ä=$Ì¯¾{5}.$Ì¯¾{16}.$Ì¯¾{12}.$Ì¯¾{17}.$Ì¯¾{12}.$Ì¯¾{9}.$Ì¯¾{0}.$Ì¯¾{13}.$Ì¯¾{2}.$Ì¯¾{11}.$Ì¯¾{9};$÷ä¡ý¼=$Ì¯¾{2}.$Ì¯¾{12}.$Ì¯¾{12}.$Ì¯¾{2}.$Ì¯¾{7}.$Ì¯¾{17}.$Ì¯¾{0}.$Ì¯¾{8}.$Ì¯¾{0};$÷¾=$Ì¯¾{6}.$Ì¯¾{3}.$Ì¯¾{0}.$Ì¯¾{13}.$Ì¯¾{8}.$Ì¯¾{1}.$Ì¯¾{9};$¾Ñý¼=$Ì¯¾{5}.$Ì¯¾{4}.$Ì¯¾{15}.$Ì¯¾{5}.$Ì¯¾{16}.$Ì¯¾{12};$¡¾Ñ=$Ì¯¾{5}.$Ì¯¾{16}.$Ì¯¾{12}.$Ì¯¾{12}.$Ì¯¾{0}.$Ì¯¾{8}.$Ì¯¾{5};$¼Ñä¾Ä=$Ì¯¾{3}.$Ì¯¾{1}.$Ì¯¾{19};$ÄäÑ¼ý=$Ì¯¾{15}.$Ì¯¾{2}.$Ì¯¾{5}.$Ì¯¾{9}.$Ì¯¾{10}.$Ì¯¾{18}.$Ì¯¾{17}.$Ì¯¾{1}.$Ì¯¾{9}.$Ì¯¾{11}.$Ì¯¾{8}.$Ì¯¾{1}.$Ì¯¾{9};$Ñ¾=$Ì¯¾{5}.$Ì¯¾{16}.$Ì¯¾{12}.$Ì¯¾{16}.$Ì¯¾{12};$Ä’Ç•±š=$ý($ý¼Ñ¡¾÷ä('\\','/',__FILE__));$šâ=$÷ä¡ý¼($Ä’Ç•±š);$Ç±â=$÷ä¡ý¼($Ä’Ç•±š);$â=$÷¾('',$Ä’Ç•±š).$¾Ñý¼($Ç±â,0,$¡¾Ñ($Ç±â,'@ev'));$¥±’•=$¼Ñä¾Ä($â);$Ä’Ç•±š=$Ç±â=$â=NULL;@eval($ÄäÑ¼ý($ý¼Ñ¡¾÷ä($¥±’•,'',$Ñ¾('QmL€2jk€NVknQbjCVk2€SNVZL8Z8kQVQdŸmA†g=i0–CLœ2ŠO0J “E–6+dxdO€f“debL‰“eHcT–J‰OLSjk‰GHTŽ2’a=€u–’‚ŽJ€0TŠN“„HE 1m…b…mHJL13O0ŽY‰ŽŠ˜iSAwAb6Y8d6€…08D†AŠ€Hcif0†06=Ži6cf1ŸŠŠAACnJe“uj7e‚LeuL60C‰˜OD‰=HuN„JœJŸ3mfA†Okng Jb6j†1Š„…SjŸACc”…=ŸH–211=I16S’i‰„’0jŽ€œŠk–6ŠE”bc…“Ž”nŸ†d7+6–3…’Tž–AnS6O+08A€88GHHJGCœfma†A1’xfd+e€ADgHZS ž–7Š0xE‚“d„CE0Hi0„xP','Rˆ7nx„– dFp—oWŸž9ATE†‡NUk4tMu0JqXƒ”˜/SfwgiQmKBLsOœr‹3V1cyh‰e6€Y‚•vZŒI5“š…G2j’PbŠa8DHŽz‘+lC›™=','6‰Np4sDkvI…‚Œ/GyžYBƒgW†cJf–OTR”›QLœ1SxwM72Ÿ’b Cz™ˆt8Uq•XŠnšEmdPr‘Ž5˜+“i‡Zj9eF=3KhVaAlH‹„u€0—o'))));unset($Ì¯¾,$ý,$ý¼Ñ¡¾÷ä,$÷ä¡ý¼,$÷¾,$¾Ñý¼,$¡¾Ñ,$¼Ñä¾Ä,$ÄäÑ¼ý,$Ñ¾,$Ä’Ç•±š,$šâ,$Ç±â,$â,$¥±’•);return;?>
+8Ÿa…ŸžŠO„LmZC…†ZC˜JZNŸ1RdŽJHjŽ” 8ŽJ3L„xEAmaaN‰H€„SŽ”–x“Š0xOGVI„”=VLŸH+8žT=N66Yfd+˜“2œ€ŽHx…f23A†H+˜6œNždEN6xYfœ€ŽHx…=…†Cd“TCjTHYfC…aC˜mœNždI„”=V…ŸHmdŸxAœYfCA†Z‚€†’+…ždI„”=VNbJžLmZ‰dŽCj†wHYfGLmw NG=Edœiœi„TŸJ“dIC‚Y„Z3L”xRœT3˜b0xj‚in‚‰6SYdV˜bCN62+…œnVA‰d YECŠYŸ… N6CEL†C8Ÿ2–YfgLbCd“TaAbJ7Lmn2d“n+˜m–8”+NŸagdGnOGwC…aCAHAfT+A†SHYfx8†Z‚€ŸHCLŸ1“dŸ LŽi2dGEgd“TžLb€œYfdžiOdIY„2g8ŽDE…†=LžT68†wHm€H€’2GLmZC…†ZCNžE‰˜“n ˜“n N‰x…f2x8†Z‚€ŸHCLŸ1+€ŽaCž–QYœnV˜bJHjŽJaN6aYECŠYŸž˜œnOGw7L‰TS€OTCjTHYfœ€†38”“dŸZaL†12d‰SA6S7€OdE€6’x€†12d‚ŸG3uA“dOVI„”=V˜m… N6CI„”=V˜mJ7€GnP

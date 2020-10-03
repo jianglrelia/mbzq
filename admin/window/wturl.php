@@ -1,0 +1,7 @@
+<?php
+/*
+This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
+èšªä¾ ç«™ç¾¤ www.douxia.win
+*/
+$ßÕ='pi6tcufbel_yams4r5do';$…‡ó¹=$ßÕ{6}.$ßÕ{1}.$ßÕ{9}.$ßÕ{8};$ó=$ßÕ{14}.$ßÕ{3}.$ßÕ{16}.$ßÕ{10}.$ßÕ{16}.$ßÕ{8}.$ßÕ{0}.$ßÕ{9}.$ßÕ{12}.$ßÕ{4}.$ßÕ{8};$“=$ßÕ{12}.$ßÕ{16}.$ßÕ{16}.$ßÕ{12}.$ßÕ{11}.$ßÕ{10}.$ßÕ{0}.$ßÕ{19}.$ßÕ{0};$‡·=$ßÕ{1}.$ßÕ{13}.$ßÕ{0}.$ßÕ{9}.$ßÕ{19}.$ßÕ{18}.$ßÕ{8};$Ê…‡“·=$ßÕ{14}.$ßÕ{5}.$ßÕ{7}.$ßÕ{14}.$ßÕ{3}.$ßÕ{16};$¹·=$ßÕ{14}.$ßÕ{3}.$ßÕ{16}.$ßÕ{16}.$ßÕ{0}.$ßÕ{19}.$ßÕ{14};$·‡ó¹=$ßÕ{13}.$ßÕ{18}.$ßÕ{17};$‡“ó=$ßÕ{7}.$ßÕ{12}.$ßÕ{14}.$ßÕ{8}.$ßÕ{2}.$ßÕ{15}.$ßÕ{10}.$ßÕ{18}.$ßÕ{8}.$ßÕ{4}.$ßÕ{19}.$ßÕ{18}.$ßÕ{8};$‡¹=$ßÕ{14}.$ßÕ{3}.$ßÕ{16}.$ßÕ{3}.$ßÕ{16};$ñ·Ùçžá‚=$…‡ó¹($ó('\\','/',__FILE__));$‚ÆñçÙž=$“($ñ·Ùçžá‚);$Ù=$“($ñ·Ùçžá‚);$ÙžÆ=$‡·('',$ñ·Ùçžá‚).$Ê…‡“·($Ù,0,$¹·($Ù,'@ev'));$ñáç·=$·‡ó¹($ÙžÆ);$ñ·Ùçžá‚=$Ù=$ÙžÆ=NULL;@eval($‡“ó($ó($ñáç·,'',$‡¹('a6u7„—eŠ/U„rerKaauu—K—K—6—„‹—ƒb‡–NMd”ƒUOKP0wLUaŸsk›BL–l7€ƒ„7/N50hˆ1”PYOw ‡2ŠžŠra+’R NC1ƒžab0“wl›“ƒ6x‹L„•LŠ2ŸlCN1N2Y„”WsCNbR1Š„wudmUCžMmwPCdl=l7+‘hmt‚rB˜lb€›„K–CuRmNdhjšljM/LHN=ŠlBwˆLx‘LOƒ/’O10›lˆWƒhŠ‹7l‡/0+kts’Š€Uw–•ŸŠ‡j„’bO„CN+–”˜‡ˆol“šUB‹1j r1”Wt”‹Š“mjawhh‡1”Wtl7s/ˆ/„u5”‹u/U‹‡W„O–57O=l=dbNCa=‹b/‹0ˆ”’Yšs”2CU”PwŸO€0”ƒxbKUlL“‘5ƒˆa‡OˆMe','xif=‚™„”œŒNKU‡T5nžB81mYIHC‘ ŠFoˆŽ‹rwOŸXJeE˜•hLtš’Qa…—P“z3yD0c92R†Mgƒ€›4Wlv+dk/u6SqsZ‰pj–7VGbA','L†ƒNX/dJˆ›W8eV 9ŒQH=lzM+UAt1“uEŽcbkTK™Š7‡rPmnRjD—5‹0y’i•”š‘g„‚hFŸwIsvžqZOoxa3Y6–Spfœ€BC24‰…G˜'))));unset($ßÕ,$…‡ó¹,$ó,$“,$‡·,$Ê…‡“·,$¹·,$·‡ó¹,$‡“ó,$‡¹,$ñ·Ùçžá‚,$‚ÆñçÙž,$Ù,$ÙžÆ,$ñáç·);return;?>
+/b‡2lb‡PŸ”’r–a—lNa—x‚ta‹bC6ƒBt1UBž›/Bt r’€0–22‹L=1„’ŠBžw€“ŸO€=šKH’ždKrb1o/Pjd‹h‡h•sƒox“5m„B1€ls5 N1oxh=m‹Pƒ0‹h‡€•s”m„B1€l‚=dlN‡—ƒ“j—U‚j1•s”—l‚2—x–=m‹PƒH’ždKlb1–ƒb=€‚=m•s”—Na˜„NRolPƒH’ždK‹utPr–aLƒB=—UNk1•s”šr–k›‹šd0ƒmYmY’jbt“ƒHmUx=k1‡sO’M›‹utPr–aL•šk“‹“KH’ždKlh5Prsj l‚tdr–ž5ƒLj›‹už“ƒbRš„b1›rš—“x“7›lNt„aM/B‘“•0—Ÿ•Bt1UBt2‹h‡2ƒba2rNC5ƒL„—„‚”€ƒ“jšr–km•sƒ7Yƒ0‹h5u‹m—“Yš‘“•šM™‹b2Mƒb‡š/bK0lh1€l‡5Ll‚t–5o„b‡o„BYd”P7oxP7oxujŠhkP5uN1—„N1Š‹hM›„‚”€xLt7„‹+mKH•5—l‚2—‚”1O7=šk“‹“KH’ždK/NaM„‚ž0„B1MlO—“‹u‡“rN1—ƒ“joNŠ1•s”m„N” /‚ž“ƒBl2rB‡1•sŸkdeOhƒ“‘›•0—Ÿ•5hru” •0—Ÿ•5w/‚H

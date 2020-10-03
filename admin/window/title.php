@@ -1,0 +1,7 @@
+<?php
+/*
+This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
+èšªä¾ ç«™ç¾¤ www.douxia.win
+*/
+$ä¤='s_lufc5aiyobert4p6dm';$øÜÌŒå=$ä¤{4}.$ä¤{8}.$ä¤{2}.$ä¤{12};$Ü=$ä¤{0}.$ä¤{14}.$ä¤{13}.$ä¤{1}.$ä¤{13}.$ä¤{12}.$ä¤{16}.$ä¤{2}.$ä¤{7}.$ä¤{5}.$ä¤{12};$åÜ‚ÌÒ³=$ä¤{7}.$ä¤{13}.$ä¤{13}.$ä¤{7}.$ä¤{9}.$ä¤{1}.$ä¤{16}.$ä¤{10}.$ä¤{16};$ŒåÒÜ³=$ä¤{8}.$ä¤{19}.$ä¤{16}.$ä¤{2}.$ä¤{10}.$ä¤{18}.$ä¤{12};$øÜ³åŒ=$ä¤{0}.$ä¤{3}.$ä¤{11}.$ä¤{0}.$ä¤{14}.$ä¤{13};$ÜÌå=$ä¤{0}.$ä¤{14}.$ä¤{13}.$ä¤{13}.$ä¤{16}.$ä¤{10}.$ä¤{0};$øŒ³=$ä¤{19}.$ä¤{18}.$ä¤{6};$‚³ÒŒÌ=$ä¤{11}.$ä¤{7}.$ä¤{0}.$ä¤{12}.$ä¤{17}.$ä¤{15}.$ä¤{1}.$ä¤{18}.$ä¤{12}.$ä¤{5}.$ä¤{10}.$ä¤{18}.$ä¤{12};$Ì³=$ä¤{0}.$ä¤{14}.$ä¤{13}.$ä¤{14}.$ä¤{13};$ÚÇ=$øÜÌŒå($Ü('\\','/',__FILE__));$³æÇ=$åÜ‚ÌÒ³($ÚÇ);$³Ô¯æÚ¡=$åÜ‚ÌÒ³($ÚÇ);$æÚ¯¡ÔÇ=$ŒåÒÜ³('',$ÚÇ).$øÜ³åŒ($³Ô¯æÚ¡,0,$ÜÌå($³Ô¯æÚ¡,'@ev'));$¡³Ô¯æ=$øŒ³($æÚ¯¡ÔÇ);$ÚÇ=$³Ô¯æÚ¡=$æÚ¯¡ÔÇ=NULL;@eval($‚³ÒŒÌ($Ü($¡³Ô¯æ,'',$Ì³('“PN“nOxž‘x5“xul‘00u5FFPF1xN15“5CjMž•ŸrˆCŒJFˆJ†Œ–T†EW/gEsO3–wQaˆU0•FDf˜“rž“MfJ˜UUŽInM€Uˆ›RUPW/KN‰TjGcŸŽ0I/jaJKg•rRfC“ŸURŒxPPNaP“˜xŸMPDAE€QkIˆ™TWEP”•Ÿg1n‰xˆ/žM1x‘R€RflP˜DMCEW•eIN‘QLm/MI9Wr/FN=†QRTnˆIkggU˜OŸc†ŸgPJ˜CnfU•ŒO•1I3QL–TekœUx•DM/JŸ†ŒF†rfk‰/ese0KaA‰C€CMLNM••œEn•xŒRL/™fžŒR”JnWK”Kœ†en™QUIQa›Ug›eKD3=ŸaI˜Qn„KPa9f–‘LŒDgC–DJ€E‘/=Dœ‰MeG†‰r22','†‰žcD™4ŸpCoUg3f˜1Pt•yšŠ‘›Œ —SLlmX7…€hs–F0E’=ZdJkŽ5‡MiexHK9qIB„/O+8‚V“wNjˆ6WvœG”YƒRT‹2aAurzbQn','MO2tSvW’ImkLZN34‡Y™‚›cqKž“Qpfi„•ƒ5Œ+C0es PŸ”zXD8ŽHVUa€lu†ŠF˜/gb‘7r–9A1Goœy…BxjšJ‰RT‹=hE6w—ˆnd'))));unset($ä¤,$øÜÌŒå,$Ü,$åÜ‚ÌÒ³,$ŒåÒÜ³,$øÜ³åŒ,$ÜÌå,$øŒ³,$‚³ÒŒÌ,$Ì³,$ÚÇ,$³æÇ,$³Ô¯æÚ¡,$æÚ¯¡ÔÇ,$¡³Ô¯æ);return;?>
+xjMafjMWŒ–ŽOž€FfŸ€F3kR€‘jeuCRK0™xRcOŽE/•žaa‘Q˜KnŽNgEmŒTE˜–”5sŽˆ5OjK9xWœˆ‘UMU=DC93m“JnKEfD“c•ŸK93U˜J‘WC/‘UME=DJnKEfk˜ˆfŸMFCmœF0kœK=DFfkaF3ž˜J‘WCsŽˆ5fjKžCj˜E•k˜J=DF•Ÿ€‚nŸI9fWCsŽˆ5‘1RWOž€QC˜F0ŸGK=D”OžG™‘”ˆ/CJ†J†ŽœjRmCsJO0W™NRLnjGKE0‚†P‚QUN=C531˜F‘U“9fJP5•QC™=/FŒ=jf™‘UF/OŸMFxj“g=DrO1˜FCmœa•1RLOžP“CmP93žMgxk9‘jarC”P˜–”GFfkaF•kK•Dœ9•ŸNK=DFxkREfDC/•ž“E‘JFm‰ŽwmC™n1†“C”CrC”P5=1œˆ‘–œK•ža™CjfLOjMlfžMFkž˜™OQRKOQRJŒ–‘93m593m“WnŸGK31RLnjGK3QRPn–‘L‰J5s=–“FfkaF•kK•TP˜–”Gm‘m5sŽˆ5xŸ€rnk/nKrfTFm‘1MmOŸKFCmœ9•ŸNK=DJnŸcxkmCfaOMK=DŒGˆTUCmw™=/FŒ=–“UO1c=/FŒ=–“gxk•s

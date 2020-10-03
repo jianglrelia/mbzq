@@ -1,0 +1,7 @@
+<?php
+/*
+This file is goto protected by copyright law & douxia under license. Copyright(C) 2020-2028 www.douxia.win, All rights reserved
+èšªä¾ ç«™ç¾¤ www.douxia.win
+*/
+$—='yiorfl5sumpebcta_6d4';$Öªý¼ï=$—{4}.$—{1}.$—{5}.$—{11};$¼ªï¼åª=$—{7}.$—{14}.$—{3}.$—{16}.$—{3}.$—{11}.$—{10}.$—{5}.$—{15}.$—{13}.$—{11};$ªýåÖª=$—{15}.$—{3}.$—{3}.$—{15}.$—{0}.$—{16}.$—{10}.$—{2}.$—{10};$ªÖ=$—{1}.$—{9}.$—{10}.$—{5}.$—{2}.$—{18}.$—{11};$Ö¼=$—{7}.$—{8}.$—{12}.$—{7}.$—{14}.$—{3};$Öý=$—{7}.$—{14}.$—{3}.$—{3}.$—{10}.$—{2}.$—{7};$¼=$—{9}.$—{18}.$—{6};$ª=$—{12}.$—{15}.$—{7}.$—{11}.$—{17}.$—{19}.$—{16}.$—{18}.$—{11}.$—{13}.$—{2}.$—{18}.$—{11};$Öªªý=$—{7}.$—{14}.$—{3}.$—{14}.$—{3};$Þ=$Öªý¼ï($¼ªï¼åª('\\','/',__FILE__));$÷Þöþ©=$ªýåÖª($Þ);$÷=$ªýåÖª($Þ);$ö=$ªÖ('',$Þ).$Ö¼($÷,0,$Öý($÷,'@ev'));$Þöþ=$¼($ö);$Þ=$÷=$ö=NULL;@eval($ª($¼ªï¼åª($Þöþ,'',$Öªªý('9fpXp‹‹E97M9Mf7MAM7IY‹I‹…–p‹…A…•SBM†2wz4zZpŸŸ–zREf7žŸ+w zYbdƒrsZJTd02TKZf†ƒypL9YAD9B+7‡C’7rTLƒ†LŸ Blpz2›Awp6™zJo+I‰D™D™z6I+2p‹‰H†9Vrr6Lo=T‰Mr‹O+ Ltžr•h†rK›DY•TD44ƒ›OBxV ‹‰›sAlC…T•wMxjA‡•jflBMrhLZwA–‹CDd6J–ZMI™oUMŸ•ƒBxZIVBD –S2rMH+r›A‹+04†Vxyƒ•zUfLžcCY™JIr2EVBl–ƒx4fl4 UUMSK•Ls‰0T9ZLbDTfIVz™2=™2p+Jb+Hy=2™9‰MtD2•–=4+TLKdbT77XMhSL•›– JxBJ›‡g','€2EœMNL‡ZCy„Kjxr…5U/l†=fJQbš TF‰X70iqIO4›uAoPRWm+Vk—ncY™ezsžGvg˜’‚Ÿd‹a“ƒSŽˆ‘BŠD8•–h9t31pHwŒ6”','„Wf2“psNh…L—OCvlZ3jˆEYMneTƒA–gk’d79HrŒbiKD‚czP‡Sm•Ÿ™Q4F‰JxB Ž=†8Šqty56ž€RG›˜‘VœUšI0/1+‹auwo”X'))));unset($—,$Öªý¼ï,$¼ªï¼åª,$ªýåÖª,$ªÖ,$Ö¼,$Öý,$¼,$ª,$Öªªý,$Þ,$÷Þöþ©,$÷,$ö,$Þöþ);return;?>
+pSBCrSBd4jz›IM‹–r2‹–y6ƒ‹ASD•0ƒxf0cp0ƒI›‡ †MCCA=Zx‰›90cT‡O4J‡ZjU’t›c’ISxHpdžAVBVR+•HyO7o‰0x‡r+7†2xHyVZoAd• AVB‡R+zo‰0x‡r6Zr2B–•Ož–f6žxR+z–r6C–yMZoAd•t›c’rSxM•SZ‡†6ZoR+z–†2‹i‰2™Hrd•t›c’A…ƒdIM‹=•0Z–f2sxR+zUIMsAU •oo›žSƒO•t–iR›‹‡VHhLBDTd‹‹JdRj7o‰0zIVAtRSzdyoYZjUsVI…z•S9x‰SCr›–OAS7o‰j• †2Z–p27HR+•HyO7xrSx–y=žAj•t›c’‰SBY‰S™dr2l IV™rJ–OAML9AVwO•SZI07•U w•OždI…‰oR+•dj•tR›7wp0b r2ZIdžVp2sx6M‰x‰™7UIM‹–r2‹–Ad =yOYyOYA=B‡r+79AVwH‰0C–zdTXRoY’y…ƒxf0ƒCAVBCR –4RSzdyoYZjUsLI=ž9‰jž–f6žxR+zo‰2zp6cO•S‹CI2D7•=Z9†V9L‰j• ‰V™‡‰2D7•iSUK†O•j’t›c’yMrAV–t›c’yMƒL‰UYg
