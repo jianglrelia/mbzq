@@ -29,6 +29,7 @@ document.getElementById('tongji').style.display="none";
 document.getElementById('maganrao').style.display="none";
 document.getElementById('hanziganrao').style.display="none";
 document.getElementById('license').style.display="none";
+document.getElementById('pushl').style.display="none";
 function Title(){
 	document.getElementById('Title').style.display="";
 }
@@ -122,6 +123,9 @@ function hanziganrao(){
 function license(){
 	document.getElementById('license').style.display="";
 }
+function pushl(){
+	document.getElementById('pushl').style.display="";
+}
 function hidder(){
 	document.getElementById('Title').style.display="none";
 	document.getElementById('Description').style.display="none";
@@ -154,4 +158,5 @@ function hidder(){
 	document.getElementById('maganrao').style.display="none";
 	document.getElementById('hanziganrao').style.display="none";
 	document.getElementById('license').style.display="none";
+	document.getElementById('pushl').style.display="none";
 }
